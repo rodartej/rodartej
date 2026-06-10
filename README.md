@@ -1,7 +1,7 @@
 <h1 align="center">Jesús Eduardo Rodarte Rosales</h1>
 
 <p align="center">
-  <em>Estudiante de Ciencia de Datos · construyo cosas con datos, modelos y bases de datos distribuidas.</em>
+  <em>Estudiante de Matemáticas Aplicadas y Computación (MAC) + Ciencia de Datos (CD).</em>
 </p>
 
 <p align="center">
@@ -12,18 +12,13 @@
 
 ---
 
-## Sobre mí
-
-Trabajo principalmente en problemas de **minería de datos urbanos**, **modelado predictivo con interpretabilidad** y **arquitectura de bases de datos** (relacional, documental, columnar, grafo). Me interesa convertir señales heterogéneas en decisiones accionables.
-
 ## Stack
 
 **Lenguajes**: Python · SQL · R · C · Java
 **ML / Data**: Pandas · NumPy · Scikit-learn · LightGBM · SHAP · PySpark
-**Visión / NLP**: OpenCV · TensorFlow (intro)
+**Visión**: OpenCV · scikit-image
 **Bases de datos**: PostgreSQL · MongoDB · Neo4j · BigQuery · MySQL
-**Apps / despliegue**: Streamlit · Jupyter · Docker (básico)
-**Cloud / LLMs**: Google Cloud · Gemini API
+**Apps / LLMs**: Streamlit · Jupyter · Gemini API
 
 ## Proyectos destacados
 
@@ -47,17 +42,7 @@ Visión computacional clásica: implementación de Canny desde cero, detección/
 Sistema de gestión hotelera con **Disaster Recovery Plan** formal en 6 pasos. Data warehouse dimensional con ETL en Python.
 `MySQL` · `SQL` · `Python` · `SQLAlchemy`
 
-## Áreas de interés
-
-- Modelado espacio-temporal en problemas urbanos
-- Interpretabilidad de modelos (SHAP, explainers locales)
-- Búsqueda por similaridad a escala (ANN, LSH, HNSW)
-- Selección de motor de base de datos según patrón de acceso
-
 ## Contacto
 
 - **Email**: jesusrod254@gmail.com
 - **LinkedIn**: [jesusrodarte](https://www.linkedin.com/in/jesusrodarte/)
-- **GitHub**: [@rodartej](https://github.com/rodartej)
-
-<sub><i>Este README vive en el repositorio especial <code>rodartej/rodartej</code> y se renderiza en mi perfil público.</i></sub>
