@@ -14,8 +14,9 @@
 
 ## Stack
 
-**Lenguajes**: Python · SQL · R · C · Java
+**Lenguajes**: Python · SQL · Julia · R · C · Java
 **ML / Data**: Pandas · NumPy · Scikit-learn · LightGBM · SHAP · PySpark
+**Cómputo científico**: Julia · LinearAlgebra · Plots.jl · CVXPY
 **Visión**: OpenCV · scikit-image
 **Bases de datos**: PostgreSQL · MongoDB · Neo4j · BigQuery · MySQL
 **Apps / LLMs**: Streamlit · Jupyter · Gemini API
@@ -31,8 +32,12 @@ Comparativa de cuatro motores (PostgreSQL · MongoDB · BigQuery · Neo4j) sobre
 `PostgreSQL` · `MongoDB` · `BigQuery` · `Neo4j` · `Python`
 
 ### [data-science-coursework](https://github.com/rodartej/data-science-coursework)
-Colección curada de 35 notebooks: pandas, cubos OLAP, ML supervisado/no supervisado, calidad de datos, PySpark, búsqueda por similaridad (LSH/MinHash/HNSW) y algoritmos de streaming (Bloom · Flajolet-Martin).
-`Python` · `Scikit-learn` · `PySpark` · `datasketch`
+Colección curada de notebooks: pandas, cubos OLAP, ML supervisado/no supervisado, calidad de datos, PySpark, búsqueda por similaridad (LSH/MinHash/HNSW), algoritmos de streaming (Bloom · Flajolet-Martin) y optimización convexa (LP · QP · QCQP · SOCP).
+`Python` · `Scikit-learn` · `PySpark` · `datasketch` · `CVXPY`
+
+### [numerical-methods-julia](https://github.com/rodartej/numerical-methods-julia)
+Métodos numéricos en Julia: método de Jacobi para sistemas lineales y aproximación polinomial (Chebyshev · Legendre · regresión · linealización).
+`Julia` · `LinearAlgebra` · `Plots.jl`
 
 ### [computer-vision-notebooks](https://github.com/rodartej/computer-vision-notebooks)
 Visión computacional clásica: implementación de Canny desde cero, detección/conteo de objetos (LEGO, triángulos), clasificación por features de color.
