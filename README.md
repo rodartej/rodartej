@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="mailto:jesusrod254@gmail.com"><img src="https://img.shields.io/badge/email-jesusrod254%40gmail.com-red?logo=gmail&logoColor=white" alt="email"></a>
+  <a href="https://www.linkedin.com/in/jesusrodarte/"><img src="https://img.shields.io/badge/LinkedIn-jesusrodarte-0A66C2?logo=linkedin&logoColor=white" alt="linkedin"></a>
   <a href="https://github.com/rodartej"><img src="https://img.shields.io/github/followers/rodartej?label=Follow&style=social" alt="github"></a>
 </p>
 
@@ -56,6 +57,7 @@ Sistema de gestión hotelera con **Disaster Recovery Plan** formal en 6 pasos. D
 ## Contacto
 
 - **Email**: jesusrod254@gmail.com
+- **LinkedIn**: [jesusrodarte](https://www.linkedin.com/in/jesusrodarte/)
 - **GitHub**: [@rodartej](https://github.com/rodartej)
 
 <sub><i>Este README vive en el repositorio especial <code>rodartej/rodartej</code> y se renderiza en mi perfil público.</i></sub>
